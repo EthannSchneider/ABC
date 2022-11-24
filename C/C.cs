@@ -3,16 +3,14 @@
 namespace ABC
 {
     public class C
-    {
-        private string cValue = "Je suis malade avec un certificat!";
-        
+    {        
         public C()
         {
             
         }
-        public string ToString()
+        public override string ToString()
         {
-            return cValue;
+            return "Je suis malade avec un certificat!";
         }
     }
 }

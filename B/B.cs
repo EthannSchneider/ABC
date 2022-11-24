@@ -1,16 +1,15 @@
 ﻿namespace ABC
 {
-    public class B
+    public class B : A
     {
-        private string bValue = "Coucou je suis A et B";
 
         public B()
         {
 
         }
-        public string ToString()
+        public override string ToString()
         {
-            return bValue;
+            return base.ToString() + ", et B";
             
         }
     }
