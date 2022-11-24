@@ -8,12 +8,9 @@
         {
 
         }
-        public string ToString
+        public string ToString()
         {
-            get
-            {
-                return aValue;
-            }
+            return aValue;
         }
     }
 }

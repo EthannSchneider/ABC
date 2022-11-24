@@ -10,12 +10,9 @@ namespace ABC
         {
             
         }
-        public string ToString
+        public string ToString()
         {
-            get
-            {
-                return cValue;
-            }
+            return cValue;
         }
     }
 }
