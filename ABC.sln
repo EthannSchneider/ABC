@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ABCshow", "ABCshow\ABCshow.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestABC", "TestABC\TestABC.csproj", "{A7797301-C364-4380-833B-175B9F262B6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D", "D\D.csproj", "{44DF39FE-DDE9-4764-A3F5-857CA7A9DB00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A7797301-C364-4380-833B-175B9F262B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7797301-C364-4380-833B-175B9F262B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7797301-C364-4380-833B-175B9F262B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44DF39FE-DDE9-4764-A3F5-857CA7A9DB00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DF39FE-DDE9-4764-A3F5-857CA7A9DB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DF39FE-DDE9-4764-A3F5-857CA7A9DB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DF39FE-DDE9-4764-A3F5-857CA7A9DB00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
